@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Natali2707/WeatherReact.git/static/css/main.7528dbed.css",
+    "main.js": "/Natali2707/WeatherReact.git/static/js/main.d3ccf45b.js",
+    "index.html": "/Natali2707/WeatherReact.git/index.html",
+    "main.7528dbed.css.map": "/Natali2707/WeatherReact.git/static/css/main.7528dbed.css.map",
+    "main.d3ccf45b.js.map": "/Natali2707/WeatherReact.git/static/js/main.d3ccf45b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7528dbed.css",
+    "static/js/main.d3ccf45b.js"
+  ]
+}
